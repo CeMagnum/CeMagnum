@@ -1,2 +1,2 @@
-Hi im CeMagnum or Boris van Maaren
-Im just starting out learining how to code so im a noob
+# Hi im Boris
+I currently am a 1st year student softwaredevelopment at R.O.C. Nijmegen.
